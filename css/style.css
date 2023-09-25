@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+hr{
+    width: 75%;
+    color: crimson;
+}
+body{
+    text-align: center;
+    /* font-size: 30pt; */
+    background-color: aqua;
+}
